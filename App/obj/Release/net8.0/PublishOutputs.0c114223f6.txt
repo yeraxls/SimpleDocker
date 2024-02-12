@@ -1,0 +1,5 @@
+E:\proyectos\SimpleDocker\App\bin\Release\net8.0\publish\DotNet.Docker.exe
+E:\proyectos\SimpleDocker\App\bin\Release\net8.0\publish\DotNet.Docker.dll
+E:\proyectos\SimpleDocker\App\bin\Release\net8.0\publish\DotNet.Docker.deps.json
+E:\proyectos\SimpleDocker\App\bin\Release\net8.0\publish\DotNet.Docker.runtimeconfig.json
+E:\proyectos\SimpleDocker\App\bin\Release\net8.0\publish\DotNet.Docker.pdb
